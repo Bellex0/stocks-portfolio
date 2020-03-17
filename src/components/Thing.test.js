@@ -1,24 +1,22 @@
 import React from 'react'
 import { configure, shallow } from 'enzyme';
 import Adapter from 'enzyme-adapter-react-16'
-
-import Thing from './Thing'
+import Header from './Header'
 
 // import ThingsContainer from '../containers/ThingsContainer'
 
 
 configure({ adapter: new Adapter()})
 
-describe('<Thing/>', () => {
+describe('Header', () => {
     // let wrapper
     
     // beforeEach(() => {
     //     wrapper = shallow(<Thing/>)
     // })
-    it('should render list item', () => {
-        const wrapper = shallow(<Thing/>)
-        wrapper.setProps({handleClick: true})
-        expect(wrapper.find(Thing)).toEqual(expect.anything())
+    it('should render title name', () => {
+        const wrapper = shallow(<Header/> )
+        const image = wrapper.find('h1')
 
     })
 })

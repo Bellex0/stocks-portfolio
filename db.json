@@ -1,64 +1,24 @@
-{"stocks":
+{"things":
   [
     { "id": 1,
-      "ticker" :"GOOG",
-      "name": "Google",
-      "type": "Tech",
-      "price": 1194.80
+      "name" :"Fries",
+      "image": "https://www.spendwithpennies.com/wp-content/uploads/2013/10/Crispy-Oven-Fries-SpendWithPennies-27-480x270.jpg"
     },
     { "id": 2,
-      "ticker" :"FB",
-      "name": "Facebook",
-      "type": "Tech",
-      "price": 168.85
+      "name" :"Overpriced Gourmet Ice Cream",
+      "image": "https://pbs.twimg.com/media/EDpUHPmW4AoLs6I.jpg"
     },
     { "id": 3,
-      "ticker" :"TWTR",
-      "name": "Twitter",
-      "type": "Tech",
-      "price": 29.41
+      "name" :"Uber",
+      "image": "https://cnet4.cbsistatic.com/img/efoM0LU-S0Nl6HHhzUL1cS_CRSo=/1092x0/2019/03/06/6facd6d3-9b74-4d83-9b77-50fa4d6cb450/uber-promo-2.jpg"
     },
     { "id": 4,
-      "ticker" :"AMZN",
-      "name": "Amazon",
-      "type": "Tech",
-      "price": 2013.04
+      "name" :"TV Show Binging",
+      "image": "https://www.hbo.com/content/dam/hbodata/series/silicon-valley/key-art/silicon-valley-s3-1920x1080.jpg"
     },
     { "id": 5,
-      "ticker" :"V",
-      "name": "Visa",
-      "type": "Finance",
-      "price": 150.05
-    },
-    { "id": 6,
-      "ticker" :"BAC",
-      "name": "Bank of America",
-      "type": "Finance",
-      "price": 29.95
-    },
-    { "id": 7,
-      "ticker" :"JPM",
-      "name": "JP Morgan",
-      "type": "Finance",
-      "price": 114.45
-    },
-    { "id": 8,
-      "ticker" :"C",
-      "name": "Citi Bank",
-      "type": "Finance",
-      "price": 72.94
-    },
-    { "id": 9,
-      "ticker" :"NKE",
-      "name": "Nike",
-      "type": "Sportswear",
-      "price": 84.56
-    },
-    { "id": 10,
-      "ticker" :"UAA",
-      "name": "Under Armour",
-      "type": "Sportswear",
-      "price": 21.07
+      "name" :"Candles",
+      "image": "https://cdn.shopify.com/s/files/1/0315/2749/products/pick-3-minimalist-candles-72-value-brooklyn-candle-studio-812482_1024x.jpg?v=1572403699"
     }
   ]
 }

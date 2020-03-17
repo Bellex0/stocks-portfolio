@@ -5,7 +5,7 @@ class Header extends Component {
   render() {
     return (
       <header>
-        <h1 className="text-center">Flatiron Stock Exchange</h1>
+        <h1 style={{"font-color":"magenta"}} className="text-center">🎀 Belle's Exciting Life ✌️</h1>
       </header>
     );
   }
